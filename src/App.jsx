@@ -36,7 +36,7 @@ function App() {
   return (
     <div className='' 
         >
-        <h1 className="  text-center text-6xl text-white pt-8 font-mono pb-8">Random Password Generator</h1>
+        <h1 className="  text-center text-6xl text-white pt-8 font-mono pb-8">SecurePass-Advacned Password Generator</h1>
         <h3 className="text-center text-white font-mono text-xl pb-8">Create strong and secure passwords to keep your account safe online.</h3>
       <div className="   w-full mx-auto  rounded-xl px-4 py-2  shadow-md bg-slate-800 text-orange-700 max-w-xl">
         
